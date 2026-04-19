@@ -1,6 +1,7 @@
 torch>=2.0.0
+# TODO: Update torchvision to match PyTorch version compatibility (e.g., torchvision>=0.18.0 for torch>=2.4.0)
 torchvision>=0.15.0
 Pillow>=9.0.0
 gradio>=4.44.1
 requests>=2.31.0
-python-dotenv>=0.19.0 
+python-dotenv>=0.19.0
