@@ -49,4 +49,4 @@ The system can detect 38 different conditions across multiple plant species, inc
 
 - Python 3.8+
 - CUDA-capable GPU (optional, for faster inference)
-- Mistral API key 
+- Mistral API key (required for detailed disease information)
